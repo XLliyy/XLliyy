@@ -18,32 +18,27 @@
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00F7A2&background=0D111700&center=true&vCenter=true&width=500&lines=01011000%2001001100%2001101100%2001101001%2001111001%2001111001;Web+Developer+%2F+Software+Engineer;Building+cool+things+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00F7A2&background=0D111700&center=true&vCenter=true&width=500&lines=01011000%2001001100%2001101100%2001101001%2001111001%2001111001;Web+Developer+%2F+Software+Engineer;Coding+for+live" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ABOUT ME -->
 <div align="center">
   <p>
-    I'm a human who loves exploring technology and building modern web applications.
+    I'm not a robot
   </p>
   
   <p>
-    🌱 I’m currently learning deeper aspects of backend and cloud technologies.<br>
-    💬 Ask me about React, Next.js, or Javascript/Typescript.<br>
-    ✉️ How to reach me: <b>your.email@example.com</b>
+    ✉️ How to reach me: <b>email@example.com</b>
   </p>
 </div>
 
 <!-- SOCIAL ICONS -->
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://discord.com/users/USERNAME" target="_blank">
+  <a href="https://discord.com/users/xlliyy" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>

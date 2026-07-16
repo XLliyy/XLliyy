@@ -1,5 +1,5 @@
 <!-- 
-  Credit: Monkey D. Evil
+  Credit: Monkey D. Evil & XLliyy
 -->
 
 <!-- BANNER -->
@@ -8,52 +8,80 @@
 </p>
 
 <!-- GREETING -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Welcome</h1></summary>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  </ul>
+<div align="center">
+  <h1>
+    Welcome to my profile! 
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" valign="middle">
+  </h1>
 </div>
 
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&duration=1000&pause=1000&color=00F7A2&background=0D111700&center=true&vCenter=true&width=435&lines=01011000%2001001100%2001101100%2001101001%2001111001%2001111001" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00F7A2&background=0D111700&center=true&vCenter=true&width=500&lines=01011000%2001001100%2001101100%2001101001%2001111001%2001111001;Web+Developer+%2F+Software+Engineer;Building+cool+things+with+code" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ABOUT ME -->
-<p align="center">
-  <br>
-  I'm a human
-  <br>
-</p>
+<div align="center">
+  <p>
+    I'm a human who loves exploring technology and building modern web applications.
+  </p>
+  
+  <p>
+    🌱 I’m currently learning deeper aspects of backend and cloud technologies.<br>
+    💬 Ask me about React, Next.js, or Javascript/Typescript.<br>
+    ✉️ How to reach me: <b>your.email@example.com</b>
+  </p>
+</div>
 
 <!-- SOCIAL ICONS -->
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
 <!-- SKILLS -->
-<h2 align="center">⚔️</h2>
+<h2 align="center">⚔️ Tech Stack & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&perline=9&theme=dark" alt="Languages & Frameworks" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=bun,vscode&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux&perline=9&theme=dark" alt="Tools & Software" />
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun&theme=dark" alt="Languages and Frameworks" />
+  <br><br>
+  <!-- Tools & Editors -->
+  <img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" alt="Tools and Software" />
 </p>
 
 ---
 
 <!-- GITHUB STATS -->
 <h2 align="center">Statistics 📊</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XLliyy&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=XLliyy&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlliyy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=XLliyy&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XLliyy&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=XLliyy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

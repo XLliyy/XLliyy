@@ -11,7 +11,6 @@
 <div align="center">
   <h1>
     WELCOME 
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" valign="middle">
   </h1>
 </div>
 
@@ -50,10 +49,11 @@
 <p align="center">
   <!-- Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun,py&theme=dark" alt="Languages and Frameworks" />
-  <br><br>
+  <br>
   <!-- Tools & Editors -->
   <img src="https://skillicons.dev/icons?i=vscodium,androidstudio,github&theme=dark" alt="Tools and Software" />
   <br>
+  <!-- OS -->
   <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="Tools and Software" />
 </p>
 

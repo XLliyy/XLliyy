@@ -60,7 +60,7 @@
 ---
 
 <!-- GITHUB STATS -->
-<h2 align="center">Statistics 📊</h2>
+<h2 align="center">Statistics</h2>
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -83,7 +83,7 @@
 ---
 
 <!-- SNAKE -->
-<h2 align="center">🐍</h2>
+<h2 align="center">Hey there! I'm using Arch</h2>
 <p align="center">
   <img src="https://github.com/XLliyy/Xlliyy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>

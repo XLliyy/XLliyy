@@ -10,7 +10,7 @@
 <!-- GREETING -->
 <div align="center">
   <h1>
-    Welcome to my profile! 
+    WELCOME 
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" valign="middle">
   </h1>
 </div>
@@ -46,13 +46,15 @@
 ---
 
 <!-- SKILLS -->
-<h2 align="center">⚔️ Tech Stack & Tools</h2>
+<h2 align="center">⚔️</h2>
 <p align="center">
   <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun,py&theme=dark" alt="Languages and Frameworks" />
   <br><br>
   <!-- Tools & Editors -->
-  <img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" alt="Tools and Software" />
+  <img src="https://skillicons.dev/icons?i=vscodium,androidstudio,github&theme=dark" alt="Tools and Software" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="Tools and Software" />
 </p>
 
 ---

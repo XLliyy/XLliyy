@@ -10,7 +10,7 @@
 <!-- GREETING -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm 01011000 01001100 01101100 01101001 01111001 01111001</h1></summary>
+    <summary><h1 style="display: inline-block">Welcome</h1></summary>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   </ul>
 </div>
@@ -18,7 +18,7 @@
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&duration=1000&pause=1000&color=00F7A2&background=0D111700&center=true&vCenter=true&width=435&lines=l;ll;lll;llli;llliy;llliy;llliyy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&duration=1000&pause=1000&color=00F7A2&background=0D111700&center=true&vCenter=true&width=435&lines=01011000%2001001100%2001101100%2001101001%2001111001%2001111001" alt="Typing SVG" />
   </a>
 </p>
 

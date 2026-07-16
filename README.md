@@ -10,7 +10,7 @@
 <!-- GREETING -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm llliyy</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm 01011000 01001100 01101100 01101001 01111001 01111001</h1></summary>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   </ul>
 </div>
@@ -48,11 +48,11 @@
 <!-- GITHUB STATS -->
 <h2 align="center">Statistics 📊</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4KNTL&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XLliyy&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4KNTL&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=XLliyy&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4KNTL&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xlliyy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 <!-- SNAKE -->
 <h2 align="center">🐍</h2>
 <p align="center">
-  <img src="https://github.com/4KNTL/4KNTL/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/XLliyy/Xlliyy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!-- FOOTER -->

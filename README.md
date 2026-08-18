@@ -24,19 +24,19 @@
 <!-- ABOUT ME -->
 <div align="center">
   <p>
-    I'm not a robot
+    I'm a human
   </p>
   
   <p>
-    ✉️ How to reach me: <b>email@example.com</b>
+    <!-- ✉️ How to reach me: <b>🪹</b> -->
   </p>
 </div>
 
 <!-- SOCIAL ICONS -->
 <p align="center">
-  <a href="mailto:email@example.com" target="_blank">
+  <!-- <a href="mailto:email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  </a> -->
   <a href="https://discord.com/users/xlliyy" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>

@@ -8,29 +8,21 @@
 </p>
 
 <!-- GREETING -->
-<div align="center">
-  <h1>
-    WELCOME
-  </h1>
-</div>
+<p align="center">
+  <img src="./welcome.svg" alt="Welcome" />
+</p>
 
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=00F7A2&background=0D111700&center=true&vCenter=true&width=500&lines=01011000%2001001100%2001101100%2001101001%2001111001%2001111001;Arch+User;Coding+for+live" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2500&pause=1200&color=7AA2F7&background=0D111700&center=true&vCenter=true&width=620&lines=Just+a+human+trying+to+center+a+div;99%25+TypeScript%2C+1%25+reading+Arch+Wiki;It+works+on+my+machine;Probably+breaking+something+right+now" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ABOUT ME -->
-<div align="center">
-  <p>
-    I'm a human
-  </p>
-
-  <p>
-    <!-- ✉️ How to reach me: <b>🪹</b> -->
-  </p>
-</div>
+<p align="center">
+  <img src="./about.svg" alt="About Me" />
+</p>
 
 <!-- SOCIAL ICONS -->
 <p align="center">
@@ -45,7 +37,9 @@
 ---
 
 <!-- SKILLS -->
-<h2 align="center">⚔️</h2>
+<p align="center">
+  <img src="./stack.svg" alt="⚔️" />
+</p>
 <p align="center">
   <!-- Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun,py&theme=dark" alt="Languages and Frameworks" />
@@ -73,8 +67,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <br>
-        <img src="https://streak-stats.demolab.com/?user=XLliyy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
+        <img src="https://streak-stats.demolab.com/?user=XLliyy&theme=tokyonight&hide_border=true&background=0D1117&card_width=800&card_height=180" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
